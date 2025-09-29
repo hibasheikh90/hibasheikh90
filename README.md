@@ -50,7 +50,7 @@ Hi, I'm **Hiba Sheikh** — a passionate **Frontend Developer** currently learni
 ---
 
 ## 🌐 Connect With Me 
-##  Connect With Me
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiba-sheikh-a437472b4/" target="blank">
