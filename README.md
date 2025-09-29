@@ -19,7 +19,7 @@ Hi, I'm **Hiba Sheikh** — a passionate **Frontend Developer** currently learni
 
 ## 🚀 Tech Stack  
 **Frontend Development:**  
-`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `React` | `Next.js`  
+`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `Next.js`  
 
 **Backend & Scripting:**  
 `Python`  
