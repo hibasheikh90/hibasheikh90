@@ -25,19 +25,6 @@ I also have experience in **project management, data analysis, and communication
 `Git` | `GitHub` | `VS Code` | `Figma` | `Canva` | `Vercel`  
 
 ---
-
-## 📊 GitHub Stats  
-![Hiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hibashiekh&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hibashiekh&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibashiekh&layout=compact&theme=tokyonight)  
-
----
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=hibashiekh&theme=onedark&margin-w=15&margin-h=15)  
-
 ---
 
 ## 🌐 Connect With Me  
