@@ -42,8 +42,6 @@ Hi, I'm **Hiba Sheikh** — a passionate **Frontend Developer** currently learni
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" style="margin-right: 10px;" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin-right: 10px;" />
 </p>
  
@@ -51,13 +49,23 @@ Hi, I'm **Hiba Sheikh** — a passionate **Frontend Developer** currently learni
 ---
 ---
 
-## 🌐 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/hiba-sheikh-a437472b4/)  
-- [Twitter](https://x.com/HibaSheikh90)  
-- [Instagram](https://www.instagram.com/its.hiba_sheikh11/?next=%2F)  
+## 🌐 Connect With Me 
+##  Connect With Me
 
-📫 **Reach me at:** [hayasheikh109@gmail.com](mailto:hayasheikh109@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiba-sheikh-a437472b4/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://x.com/HibaSheikh90" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/its.hiba_sheikh11/?next=%2F" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
+<p align="center">
 
+📫 Reach me at  **hayasheikh109@gmail.com** .
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!* ⭐
