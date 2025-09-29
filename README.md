@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hiba Shiekh  
-🌐 Frontend Developer | ⚛️ React & Next.js Enthusiast | 📊 Management Student @ GIAIC | 🤖 Agentic AI Learner  
+🌐 Frontend Developer | Next.js Enthusiast | 📊 Management Student @ GIAIC | 🤖 Agentic AI Learner  
 
 ---
 
