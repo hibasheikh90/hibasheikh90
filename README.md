@@ -3,12 +3,15 @@
 
 ---
 
-## 👩‍💻 About Me  
-I'm a **dedicated and enthusiastic Frontend Developer** with strong skills in **HTML, CSS, JavaScript, TypeScript, and Next.js**.  
-Currently, I’m pursuing **Management at GIAIC Institute (Initiative of AI & Web 3)**, where I specialize in **Others track**.  
+# 👩‍💻 About Me  
 
-💡 My passion lies in using **technology to solve real-world problems** by blending business principles with modern tech.  
-I also have experience in **project management, data analysis, and communication**, making me a strong team player who can also work independently.  
+Hi, I'm **Hiba Sheikh** — a passionate **Frontend Developer** currently learning and building projects with **HTML, CSS, JavaScript, TypeScript, React, and Next.js**.  
+
+🌱 I’m focused on creating **modern, responsive, and user-friendly web applications** while continuously improving my skills.  
+
+💡 I’m eager to grow as a developer, explore **Agentic AI Development**, and contribute to real-world projects.  
+
+⚡ I enjoy problem-solving, learning new technologies, and turning ideas into reality.    
 
 ⚡ **Fun Fact:** I love learning new things every day and believe consistency is the key to success!  
 
