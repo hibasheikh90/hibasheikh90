@@ -35,7 +35,7 @@ Hi, I'm **Hiba Sheikh** — a passionate **Frontend Developer** currently learni
 - [Twitter](https://x.com/HibaSheikh90)  
 - [Instagram](https://www.instagram.com/its.hiba_sheikh11/?next=%2F)  
 
-📫 **Reach me at:** `hayasheikh109@gmail.com`  
+📫 **Reach me at:** [hayasheikh109@gmail.com](mailto:hayasheikh109@gmail.com)
 
 ---
 
